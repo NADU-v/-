@@ -69,9 +69,9 @@ require("./plugins/" + plugin);
 console.log('Plugins installed successful ✅')
 console.log('Bot connected to whatsapp ✅')
 
-let up = `METHU MD connected successful ✅\n\nPREFIX: ${prefix}`;
+let up = `𝗠𝗘𝗧𝗛𝗨_𝗠𝗗 \n\n autoreplay \nautovoice \nautosticker \n\n\n 𝗠𝗘𝗧𝗛𝗨_𝗠𝗗-𝗕𝗢𝗧 Whatsapp channel==https://whatsapp.com/channel/0029Vb69IgXBqbrGn2PrF43M \n\nMETHU MD connected successful ✅\n\nPREFIX: ${prefix}`;
 
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.ibb.co/twVqFPVs/3201.jpg` }, caption: up })
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.ibb.co/3QP0Tvw/6894.jpg` }, caption: up })
 
 }
 })
