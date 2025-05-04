@@ -3,11 +3,11 @@ const os = require("os");
 const { runtime } = require('../lib/functions');
 
 cmd({
-    pattern: "alive",
+    pattern: "methu",
     alias: ["status", "runtime", "uptime"],
     desc: "Check uptime and system status",
     category: "main",
-    react: "👋",
+    react: "❤️",
     filename: __filename
 },
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
@@ -23,7 +23,13 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
 
-  *Hi,am 𝗠𝗘𝗧𝗛𝗨_𝗠𝗗 alive now💝.*
+  *Hi,am 𝗠𝗘𝗧𝗛𝗨_𝗠𝗗 msg now💝.*
+  *mgs list😍* 
+  hi
+  gm
+  gn
+  mk
+  hm
 
   https://whatsapp.com/channel/0029Vb69IgXBqbrGn2PrF43M
 
